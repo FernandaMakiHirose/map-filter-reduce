@@ -7,6 +7,7 @@
 1. Abra o projeto no terminal
 2. Para executar cada projeto basta digitar:
 >node nomedoarquivo.js
+
 Substitua o `nomedoarquivo` pelo nome do arquivo que você deseja executar
 
 ## Array.prototype.filter()
