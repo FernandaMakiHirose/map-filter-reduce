@@ -2,7 +2,6 @@
 ## Array.prototype.filter()
 Cria um novo array com todos os elementos que passaram no teste ad função fornecida <br>
 ```var newArray = arr.filter(callback[, thisArg])```
-```filter([:hamburger:, :green_salad:], isVegetarian) => [:green_salad:]```
 
 ### Array.prototype.map()
 Chama o callback para cada elemento e devolve um novo array com a mesma quantidade de items  <br>
