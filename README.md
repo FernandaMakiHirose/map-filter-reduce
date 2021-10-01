@@ -3,6 +3,9 @@
 - IDE
 - Terminal
 
+## Licença
+Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações.
+
 ## Executar o projeto
 1. Abra o projeto no terminal
 2. Para executar cada projeto basta digitar:
